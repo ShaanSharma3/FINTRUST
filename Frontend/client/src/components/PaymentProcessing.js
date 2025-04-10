@@ -38,6 +38,8 @@ const PaymentProcessing = () => {
       if (res.data.includes('successful')) {
         setAmountPaid('');
         setPaymentDate('');
+        // Redirect to dummy Stripe payment gateway
+        window.location.href = 'https://buy.stripe.com/test_14kbK5drFf629dmcMM';
       }
     } catch (err) {
       console.error(err);
