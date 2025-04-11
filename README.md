@@ -8,7 +8,7 @@ A powerful full-stack web application to manage the entire lifecycle of loans �
 
 ## 🎥 Project Demo (Video Walkthrough)
 
-📽️ [Watch the Presentation on Loom](https://www.loom.com/share/0a97a83891a047ed8c7973d36dbf5dc4?sid=542e14d1-4a22-475f-b02f-8b0eb711e4bc)
+📽️ [Watch the Presentation on Loom](https://www.loom.com/share/d19c50b1fe34488c8021ac7c9f80436d?sid=e934ef7b-d422-4115-aa66-f528f33dc3a9)
 
 > 🔐 **Note**: You may need to **log in** to Loom the first time. Once logged in, adjust playback speed (1x, 1.5x, 2x) as needed to explore the demo at your pace.
 > 
