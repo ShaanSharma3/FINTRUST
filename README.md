@@ -34,11 +34,14 @@ A full-stack web application for managing loan processes — from application an
 
 ---
 
+## 🗂️ Project Structure
+
 Loan_Management_Project/
 ├── Backend/
 │   └── loan-management-system/     # Spring Boot project
 ├── Frontend/
 │   └── client/                     # React application
+
 
 
 
