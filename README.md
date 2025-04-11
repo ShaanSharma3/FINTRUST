@@ -1,17 +1,27 @@
 # 💼 Loan Management System
 
-A full-stack web application for managing loan processes — from application and approval to repayment tracking and document handling. Built with **Spring Boot**, **React**, **Oracle SQL**, and **Bootstrap**.
+A powerful full-stack web application to manage the entire lifecycle of loans — from user registration and document submission to loan approvals, interest calculation, repayment scheduling, and payment tracking.
 
+> 🚀 Built with **Spring Boot**, **React**, **Oracle SQL**, and **Bootstrap**.
+
+---
+
+## 🎥 Project Demo (Video Walkthrough)
+
+📽️ [Watch the Presentation on Loom](https://www.loom.com/share/0a97a83891a047ed8c7973d36dbf5dc4?sid=542e14d1-4a22-475f-b02f-8b0eb711e4bc)
+
+> 🔐 **Note**: You may need to **log in** to Loom the first time. Once logged in, adjust playback speed (1x, 1.5x, 2x) as needed to explore the demo at your pace.  
+> 📁 File handling features (document upload by users & download by admins) were not shown in the video, as screen recording tools can’t capture file manager popups or download dialogs due to company security policies. However, these features are fully implemented and working as expected — you can verify them in the source code.
+---
 ## 🚀 Features
 
 ### 👤 User Functionality
 - ✅ User Registration & Login (Secure Auth)
 - ✅ Apply for Loans Online
 - ✅ Upload Required Documents
-- ✅ View Loan Status & Details
 - ✅ Calculate Interest on Loans
 - ✅ Generate & View Repayment Schedule
-- ✅ Make Repayments and Track Installments
+- ✅ Make Repayments
 
 ### 🛠️ Admin Functionality
 - ✅ Review Loan Applications
