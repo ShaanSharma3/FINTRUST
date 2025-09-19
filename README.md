@@ -1,4 +1,4 @@
-# 💼 Loan Management System
+# 💼 FINTRUST (Loan Management System)
 
 A powerful full-stack web application to manage the entire lifecycle of loans — from user registration and document submission to loan approvals, interest calculation, repayment scheduling, and payment tracking.
 
